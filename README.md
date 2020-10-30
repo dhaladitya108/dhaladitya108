@@ -1,4 +1,3 @@
-![banner](https://i.ibb.co/9Z3cZSH/Untitled-design.png)
 ### Hello, I'm Aditya 👋
 
 <!--
