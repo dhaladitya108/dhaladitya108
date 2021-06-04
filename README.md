@@ -1,6 +1,6 @@
 ### Hello, I'm Aditya 👋
 
-- 🔭 I’m currently working on Frontend Part of a Web Development Project.
+
 <!--
 **dhaladitya108/dhaladitya108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on Frontend Part of a Web Development Project.
 -->
 
